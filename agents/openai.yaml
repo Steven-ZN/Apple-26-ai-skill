@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apple 26 AI Skill"
+  short_description: "Implement WWDC2026 Apple AI features"
+  default_prompt: "Use $apple-26-ai-skill to implement a WWDC2026 Apple AI feature in this Xcode project with tests and profiling guidance."
