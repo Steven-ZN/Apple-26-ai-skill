@@ -8,7 +8,7 @@ English | [中文](#中文)
 
 It is designed for Claude Code, Codex, Cursor-style agents, and similar coding agents working on iOS, iPadOS, macOS, visionOS, watchOS, Swift, SwiftUI, and Xcode projects.
 
-## WWDC2026 Feature Set
+## 2026 Feature Set
 
 - Xcode coding intelligence for chat and agent workflows.
 - External agent access to Xcode through Xcode MCP and `xcrun mcpbridge`.
@@ -37,7 +37,7 @@ Use $apple-26-ai-skill to implement a WWDC2026 Apple AI feature in this Xcode pr
 
 它适用于 Claude Code、Codex、Cursor 类 agent，以及类似的自动编码工具；目标项目包括 iOS、iPadOS、macOS、visionOS、watchOS、Swift、SwiftUI 和 Xcode 项目。
 
-## WWDC2026 功能集合
+## 2026年发布的功能集合
 
 - Xcode coding intelligence：面向 chat 和 agent workflow。
 - 通过 Xcode MCP 和 `xcrun mcpbridge` 让外部 agent 访问 Xcode 能力。
